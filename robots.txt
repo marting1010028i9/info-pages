@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marting1010028i9.github.io/info-pages/sitemap.xml
